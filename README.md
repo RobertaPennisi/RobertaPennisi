@@ -18,26 +18,12 @@
 <br><br>
 
 
-<p align="center"><img align="left" width="300px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/151996746-c72066e2-21bf-45fa-9205-bfd48e9bc98e.gif" /><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled"/></p>
+<p align="center"><img align="left" height="400px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/152005371-65397e33-505e-4b08-9d8c-8286e3a2586a.gif" /><img alt="GitHub Streak" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img alt="GitHub stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled"/></p>
 
+<!-- <p align="center"><img align="center" width="100%" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/152004499-76dbcd49-ccbd-4856-acb4-471d71489268.gif" /></p>
 
+<p align="center"><img alt="GitHub Streak" align="left" width="450px" src="https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img alt="GitHub stats" align="right" width="450px" src="https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled"/></p>
+ -->
 
-
-<!--
-**RobertaPennisi/RobertaPennisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
