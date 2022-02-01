@@ -17,7 +17,7 @@
 
 <br><br>
 
-<img align="left" width="400px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/151996746-c72066e2-21bf-45fa-9205-bfd48e9bc98e.gif" />
+<img align="center" width="400px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/151996746-c72066e2-21bf-45fa-9205-bfd48e9bc98e.gif" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled)
