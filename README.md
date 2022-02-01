@@ -18,7 +18,7 @@
 <br><br>
 
 
-<p align="center"><img align="left" height="400px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/152005371-65397e33-505e-4b08-9d8c-8286e3a2586a.gif" /><img alt="GitHub Streak" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img alt="GitHub stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled"/></p>
+<p align="center"><img align="left" height="380px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/152005371-65397e33-505e-4b08-9d8c-8286e3a2586a.gif" /><img alt="GitHub Streak" height="190px" src="https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img alt="GitHub stats" height="190px" src="https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled"/></p>
 
 <!-- <p align="center"><img align="center" width="100%" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/152004499-76dbcd49-ccbd-4856-acb4-471d71489268.gif" /></p>
 
