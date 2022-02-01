@@ -18,7 +18,7 @@
 <br><br>
 
 
-<p align="center"><img align="left" width="400px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/151996746-c72066e2-21bf-45fa-9205-bfd48e9bc98e.gif" /><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled"/></p>
+<p align="center"><img align="left" width="300px" alt="women-web-developer" src="https://user-images.githubusercontent.com/92723769/151996746-c72066e2-21bf-45fa-9205-bfd48e9bc98e.gif" /><img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=RobertaPennisi&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D"/><img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=RobertaPennisi&show_icons=true&theme=radical&hide_border=enabled"/></p>
 
 
 
