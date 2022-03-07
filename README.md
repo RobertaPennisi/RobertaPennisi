@@ -21,6 +21,7 @@
 
 <h2>Main projects:</h2>
 <ul>
+  <li><b>TravelHub:</b> It is a web app developed in NextJS for the tourism sector. TravelHub provides, through the use of Tui Musement's API, a catalog of activities and experiences that can be carried out around the world. <a href="https://github.com/edgemony-coding-bootcamp/project-casimiro-a"> :point_right:View Code:point_left:</a><br><br></li>
   <li><b>Today Weather App in Sicily:</b> It is a one-page application project developed during Edgemony's Code Week in HTML/CSS/ Vanilla Js. It displays weather conditions in Sicily and worldwide through the use of API's. <a href="https://github.com/RobertaPennisi/ui-today-weather-app-in-sicily"> :point_right:View Code:point_left:</a><br><br></li>
   <li><b>Address book in Js:</b> It is an application that allows you to add, view and delete contacts in an address book. <a href="https://github.com/RobertaPennisi/cb-w4-ex3-04nov"> :point_right:View Code:point_left:</a><br><br></li>
   <li><b>Film & series catalog:</b> It's a one-page application where you can explore film/series details tab, add a new one or modify another already existent. <a href="https://github.com/RobertaPennisi/cb-w6-ex2-17nov"> :point_right:View Code:point_left:</a></li>
